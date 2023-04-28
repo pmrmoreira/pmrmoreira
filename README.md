@@ -19,5 +19,4 @@
 
 ## Social Media
 
-![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/user/Moreira
-#7852)
+![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/323271271678738434)
