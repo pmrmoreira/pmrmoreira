@@ -26,3 +26,4 @@
 <br />
 <a href="https://discordapp.com/users/INSERT_USER_ID_HERE](https://discordapp.com/users/32327127167873843)" target="_blank"><img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
+![snake gif](https://github.com/PedroMoreira-a22002701/PedroMoreira-a22002701/blob/output/github-contribution-grid-snake.svg)
