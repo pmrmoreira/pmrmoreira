@@ -1,9 +1,11 @@
-### Hi there, I'm Pedro 👋 
+# Hi there, I'm Pedro 👋 
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="Pedro's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreira-a22002701&layout=compacttrue&theme=tokyonight" alt="Top Languages">
+</div>
 
-### Languages and Tools
-
+## 🔧 Technologies & Tools
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -14,4 +16,3 @@
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreira-a22002701&layout=compact&theme=tokyonight)](https://github.com/PedroMoreira-a22002701/github-readme-stats)
