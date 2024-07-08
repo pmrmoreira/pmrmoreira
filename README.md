@@ -2,8 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/PedroMoreira-a22002701">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroMoreira-a22002701&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreira-a22002701&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pmrmoreira
+&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmrmoreira
+&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
